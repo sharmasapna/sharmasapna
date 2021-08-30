@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 [![Sapna's github stats](https://github-readme-stats.vercel.app/api?username=sharmasapna)](https://github.com/sharmasapna/github-readme-stats)
