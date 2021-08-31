@@ -8,7 +8,6 @@
  </p>
  
 ### Worked with 
-
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB"></code>
@@ -20,9 +19,7 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="wordpress"></code>
 
-
 ### GitHub Stats
-
 <p align="left">
   <a href = "https://github.com/sharmasapna">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=sharmasapna&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
@@ -30,12 +27,12 @@
  </p>
  
 ### Top Languages
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmasapna&hide=css,scss,html,javascript&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400")](https://github.com/sharmasapna/github-readme-stats)
+ 
 
-<p align="left">
-<a href = "https://github.com/sharmasapna">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=sharmasapna&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
+
+
 
 ### Follow me
 
