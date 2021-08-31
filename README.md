@@ -5,13 +5,7 @@
     Currently doing Masters in Data Science from Northeastern Univercity
   </em>
  </p>
-
-
-
-
-  
-
-
+ 
 ### Worked with 
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
