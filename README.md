@@ -2,7 +2,8 @@
 
 <p>
   <em>
-    Currently doing Masters in Data Science from Northeastern Univercity
+    Currently doing Masters in Data Science from Northeastern Univercity!
+    Actively looking for full time roles in Machine Learning.
   </em>
  </p>
  
@@ -20,13 +21,9 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" title="wordpress"></code>
 
 
-
-
-
-
 ### GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href = "https://github.com/sharmasapna">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=sharmasapna&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
@@ -34,7 +31,7 @@
  
 ### Top Languages
 
-<p align="center">
+<p align="left">
 <a href = "https://github.com/sharmasapna">
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=sharmasapna&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
