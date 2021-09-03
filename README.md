@@ -22,13 +22,13 @@
 ### GitHub Stats
 <p align="left">
   <a href = "https://github.com/sharmasapna">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=sharmasapna&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=sharmasapna&show_icons=true&title_color=151515&icon_color=8ac926&text_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
 ### Top Languages
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmasapna&hide=css,scss,html,javascript&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400")](https://github.com/sharmasapna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmasapna&hide=css,scss,html,javascript&langs_count=8&title_color=151515&icon_color=8ac926&text_color=151515&card_width=400")](https://github.com/sharmasapna/github-readme-stats)
  
 
 
