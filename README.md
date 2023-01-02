@@ -3,7 +3,7 @@
 <p>
   <em>
     Masters in Data Science from Northeastern University.
-    Actively looking for full time roles in Machine Learning.
+   
   </em>
  </p>
  
